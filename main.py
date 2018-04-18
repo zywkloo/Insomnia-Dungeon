@@ -1,4 +1,4 @@
-#Yiwei Zhang 101071022 & Weihang Chen 101084865 & Sue Yang
+#Yiwei Zhang & Weihang Chen & Sue Yang
 import pygame
 import math
 import csv
