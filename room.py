@@ -130,7 +130,7 @@ class Room:
         else:
             self.W={"linked":Room.map_data[room_No]["W"],
                     "render_zone":(61,234),
-                    "render_loc":(86,132),
+                    "render_loc":(86,130),
                     "gear_type":Room.map_data[room_No]["W_type"],
                     "gear_value":Room.gear_type[Room.map_data[room_No]["W_type"]][0],
                     'open':False,
