@@ -38,7 +38,7 @@ def render_enemy(enemy,screen):
 ##################################################################################################
 
 class Enemy:
-	enem_data = {}
+	enemy_data = {}
 	for enemy in csv_loader('Enemy.csv'):
 		enemy_data[enemy[0]] = {'name': enemy[1],'sprite':enemy[2],'Size_x':enemy[3],'Size_y':enemy[4],'attack': int(enemy[5]),'health':enemy[6],'Loot_chance':int(enemy[7]),'Loot_item':enemy[8],'Desc':enemy[9],'Brief_Desc':enemy[10]}
 	

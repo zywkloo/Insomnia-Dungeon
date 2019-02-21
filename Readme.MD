@@ -14,7 +14,7 @@ This a nightmare where you are trapped. Now try to collect necessary items and w
 
 ### MIT License
 
-Copyright (c) 2019 Yiwei Zhang,Weihang Chen,Sue Yang
+Copyright (c) 2019 Yiwei Zhang, Weihang Chen,Sue Yang
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
